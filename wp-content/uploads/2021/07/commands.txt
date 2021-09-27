@@ -1,0 +1,4 @@
+1. Adding virtual environment to jupyter notebook
+   - conda activate venv
+   - conda install -n "venv "ipykernel
+   - ipython kernel install --name "venv" --user
